@@ -1,16 +1,11 @@
-### Hi there 👋
-
-<!--
-**octoisntbritish/octoisntbritish** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Programming Languages
+- Basic HTML and CSS
+- Started learning JavaScript in 2017, still going
+- Started learning Java in 2021
+## Inspirations
+- AlexFlipnote ([GitHub](https://github.com/alexflipnote)) ([Website](https://alexflipnote.dev))
+  - (Basically the reason I ever started coding in the first place, thank you <3)
+## Contact
+- Twitter: [@octoisntbritish](https://twitter.com/octoisntbritish)
+## Cirno Prism
+![Cirno Prism](https://cdn.discordapp.com/attachments/762002773763817494/868543226074792006/Heckitcirnoprism_fefe14_7671988.gif)
