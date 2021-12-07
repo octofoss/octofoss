@@ -4,7 +4,7 @@
 - Started learning Java in 2021
 ## Inspirations
 - AlexFlipnote ([GitHub](https://github.com/alexflipnote)) ([Website](https://alexflipnote.dev))
-  - (Basically the reason I ever started coding in the first place, thank you <3)
+  - (Basically the reason I ever started programming in the first place, thank you <3)
 ## Contact
 - Twitter: [@octoisntbritish](https://twitter.com/octoisntbritish)
 ## Cirno Prism
