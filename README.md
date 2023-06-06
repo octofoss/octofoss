@@ -1,4 +1,4 @@
-## Programming Languages
+## Experience
 - Basic HTML and CSS
 - Started learning JavaScript in 2017, still going
 - Started learning Java in 2021
