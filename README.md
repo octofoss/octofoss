@@ -1,9 +1,18 @@
-## Experience
-- Basic HTML and CSS
-- Started learning JavaScript in 2017, still going
-- Started learning Java in 2021
-## Inspirations
-- AlexFlipnote ([GitHub](https://github.com/alexflipnote)) ([Website](https://alexflipnote.dev))
-  - (Basically the reason I ever started programming in the first place, thank you <3)
-## Cirno Prism
-![Cirno Prism](https://cdn.discordapp.com/attachments/762002773763817494/868543226074792006/Heckitcirnoprism_fefe14_7671988.gif)
+# hey, i'm octo
+I'm a guy that does stuff. I’ve been programming since 2017 and have experience with many technologies.
+
+# experience
+![HTML](https://img.shields.io/badge/father-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/son-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/the%20holy%20spirit-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white)
+![PowerShell](https://img.shields.io/badge/powershell-5391FE?style=for-the-badge&logo=powershell&logoColor=white)
+![Aseprite](https://img.shields.io/badge/Aseprite-7D929E?style=for-the-badge&logo=aseprite&logoColor=white)
+![Photoshop](https://img.shields.io/badge/Hell-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=white)
+
+# projects
+- Bugtesting for [corru.observer](https://corru.observer/credits)
+  - A webgame comprised entirely of <em>The Trinity</em> (HTML/CSS/JS) that's playable entirely in your browser!
+- Other things, probably
